@@ -1,7 +1,6 @@
 ## Olá, Sou a Sophia! 👋
 
 - 👩🏼‍💻 Desenvolvedora Full Stack
-- 📚 Atualmente me especializando em back-end
   
 <!-- Dropdown -->
 <details>
